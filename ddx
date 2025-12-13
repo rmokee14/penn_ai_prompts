@@ -1,0 +1,65 @@
+## Task
+
+Using  provided patient data and Emergency Department (ED) information, generate a comprehensive output that aids a hospitalist in forming an initial differential diagnosis upon hospital admission. The output must include the following structured sections: 
+
+---
+
+### Clinical Case Summary
+Provide a succinct summary of the patient's key demographic information, presenting symptoms, and relevant past medical history. Include pertinent details from the physical exam, vital signs, and initial diagnostic results from the ED, such as lab values, imaging, and clinical findings. Present this information in a narrative format that captures the clinical context accurately.
+
+**Format**:
+"A [age]-year-old [gender] with a history of [relevant medical history, including any chronic conditions] presents to the ED with [main symptom(s) such as chest pain, shortness of breath, fever]. [Describe nature and quality of symptoms]. Vital signs reveal [key abnormal vitals]. On exam, [key exam findings]. Labs show [relevant lab findings], and imaging indicates [relevant imaging results]."
+
+---
+
+### Most Likely Differential Diagnoses
+List the top 2-3 most likely diagnoses based on the clinical presentation. For each diagnosis, create two subsections: "Supporting" and "Against."
+
+- **Supporting**: Provide specific data points from the case that support this diagnosis, including symptomatology, clinical findings, and objective data (e.g., labs, imaging).
+- **Against**: Highlight any features of the case that argue against this diagnosis or are atypical. Discuss why this diagnosis might not fully explain the patient's presentation.
+
+**Format for Each Diagnosis**:
+**[Diagnosis]**
+- **Supporting**: [Data from the case that fits with this diagnosis]
+- **Against**: [Data from the case that is less consistent with this diagnosis]
+
+---
+
+### Summary of Likely Diagnoses
+Summarize the diagnostic reasoning behind the leading and competing likely diagnoses. Clearly state which diagnosis is currently considered the most probable and why, while acknowledging any strong alternative diagnoses that are close differentials. Provide reasoning on the interplay between possible diagnoses, such as how one may trigger or influence another, especially in the context of any predisposing conditions.
+
+**Format**:
+"The patient's history of [relevant chronic condition] and acute presentation with [key symptoms/findings] make [most likely diagnosis] the leading diagnosis. However, [alternative diagnosis] remains a strong consideration due to [relevant findings]. Given the overlap in presentation and potential interactions, it is essential to differentiate between [diagnoses] to guide management appropriately."
+
+---
+
+### Expanded and Can't Miss Differential Diagnoses
+List additional less likely but still possible diagnoses ("Expanded Differential") and those that must be ruled out due to potential severity ("Can't Miss Diagnoses"). For each, provide a brief rationale for why it is less likely in this case, and any key diagnostic clues that would support the diagnosis if present.
+
+**Format for Each Diagnosis**:
+**[Diagnosis]**: [Brief rationale for why it is less likely]. **Diagnostic Clues**: [Any additional signs, symptoms, or tests that would support this diagnosis].
+
+---
+
+### Key Diagnostic Studies to Clarify Diagnosis
+Generate a list of essential diagnostic studies (labs, imaging, or other tests) that should be pursued to help confirm or rule out the likely and "can't miss" diagnoses. Only list studies that have NOT already been completed/provided, unless there is value in repeating them. For each study, specify the purpose or what aspect of the differential diagnosis it is meant to clarify. **Highlight any key decision points in the case that may affect the differential diagnosis, and identify which additional data would be most impactful in confirming or ruling out the primary diagnoses.**
+
+**Format**:
+- **[Diagnostic Study]**: [Purpose of the test and what it will help clarify or rule out]
+
+---
+
+### Uncertainties and Diagnostic Ambiguities
+Identify any clinical ambiguities or uncertainties that exist based on the current data (e.g., overlapping symptoms, inconclusive lab results). Provide an explanation of how these uncertainties affect the differential diagnosis and offer guidance on how to navigate these ambiguities through additional workup or observation. **Highlight how resolving these uncertainties would aid in distinguishing between the possible diagnoses.**
+
+**Format**:
+"Current data reveals uncertainties regarding [specific aspects, such as symptoms, imaging findings]. These ambiguities complicate the differential by [explain how]. To address these uncertainties, [suggest additional diagnostic steps or considerations]."
+
+
+
+
+
+
+
+
+
