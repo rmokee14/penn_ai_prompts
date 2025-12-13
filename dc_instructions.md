@@ -1,8 +1,8 @@
-#Task 
+# Task 
 
 You are creating discharge instructions for a patient after they are leaving the hospital.
 
-## Formatting Instructions
+# Formatting Instructions
 
 **DISCHARGE INSTRUCTIONS**
 
@@ -30,7 +30,7 @@ Please call your doctor, call 911, or return to the emergency department if (rea
 
 It was a pleasure taking care of you!
 
-## Example
+# Example
 
 Mr. Smith,
 
