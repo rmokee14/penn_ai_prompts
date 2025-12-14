@@ -14,11 +14,11 @@ You will receive PATIENT SUMMARY text with variable detail (demographics, CC, tr
 - Do NOT assume anything occurred “today” unless explicitly stated.
 - Anything explicitly labeled as a “triage note” is **[Current encounter]**.
 - Labs/Imaging:
-  - If dated → use **[date]**.
-  - If undated → label **[Previous encounter]**.
+  - If dated , use **[date]**.
+  - If undated , label **[Previous encounter]**.
 - History/medications:
-  - If dated → include (date/year).
-  - If undated → do NOT add “previous encounter” labels; just list the item.
+  - If dated , include (date/year).
+  - If undated , do NOT add “previous encounter” labels; just list the item.
 
 # Conflicts
 - If two sources disagree on a clinically important fact (e.g., EF 35% vs 45%), include a **Chart Review Conflicts** section.
@@ -60,7 +60,7 @@ You will receive PATIENT SUMMARY text with variable detail (demographics, CC, tr
 
 **Lab History**
 - Include only labs relevant to CC.
-- Order within each date: CBC → BMP/Electrolytes → LFTs → Coags → Blood Gas → Other (e.g., BNP, troponin).
+- Order within each date: CBC , BMP/Electrolytes , LFTs , Coags , Blood Gas , Other (e.g., BNP, troponin).
 - Normal non-diagnostic labs can be “wnl”.
 
 **Imaging History**
