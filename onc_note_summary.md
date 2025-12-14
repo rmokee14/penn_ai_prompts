@@ -17,10 +17,9 @@ OUTPUT (use this exact structure)
 **ONC NOTE SUMMARY**
 
 **1) Cancer Snapshot**
-- **Primary tumor:** 
-- **Histology/subtype:** 
-- **Stage at diagnosis:** 
-- **Biomarkers/molecular:** 
+- **Primary tumor**
+- **Stage (Current):**
+- **Histology/subtype/biomarkers:** 
 - **Metastatic sites (current):** 
 - **Key disease complications:** (e.g., malignant obstruction, brain mets, spinal cord risk, effusions, ascites)
 - **Disease status:** (responding/stable/progressing; cite imaging date if present)
@@ -29,22 +28,13 @@ OUTPUT (use this exact structure)
 **2) Current Anticancer Therapy and Disease Status**
 - **Regimen:** 
 - **Intent:** (curative/adjuvant/palliative/maintenance/clinical trial)  
-- **Cycle/Day:** 
-- **Last received (date):** 
+- **Last received (date, Cycle/Day):** 
 - **Next planned dose (date):** 
 - **Expected high-risk toxicities / what to watch in hospital:** (1–5 bullets)
 - **Onc plan:** (next steps)
 
-**3) Cancer-Related Meds**
-- **Steroids:** (drug, dose, taper plan)
-- **Infectious prophylaxis:** (PJP/HSV/VZV/antifungal; indicate indication if stated)
-- **Anticoagulation/antiplatelet:** (drug, dose, indication)
-- **Pain regimen:** (baseline + breakthrough; include methadone if present)
-- **Antiemetics/appetite/neuropathic agents:** 
-- **Bone mets meds:** (zoledronic acid/denosumab; last dose if present)
-- **Other critical meds:** (e.g., seizure meds, pressors not applicable, etc.)
-
-**4) Treatment Timeline (broad strokes only)**
+**3) Treatment Timeline (broad strokes only)**
+- **Summary:** (1 paragraph summarizing the below information)
 - **Dx:** 
 - **Surgeries/procedures:** (date + what)
 - **Radiation:** (date range + general location)
@@ -52,6 +42,15 @@ OUTPUT (use this exact structure)
   - Line 1: (date range, regimen, outcome)  
   - Line 2: …  
   - Current line: …
+    
+**4) Cancer-Related Meds**
+- **Steroids:** (drug, dose, taper plan)
+- **Infectious prophylaxis:** (PJP/HSV/VZV/antifungal; indicate indication if stated)
+- **Anticoagulation/antiplatelet:** (drug, dose, indication)
+- **Pain regimen:** (baseline + breakthrough; include methadone if present)
+- **Antiemetics/appetite/neuropathic agents:** 
+- **Bone mets meds:** (zoledronic acid/denosumab; last dose if present)
+- **Other critical meds:** (e.g., seizure meds, pressors not applicable, etc.)
 
 **5) Devices / Access / Anatomy Changes**
 - **Vascular access:** (port/PICC; laterality; issues)
