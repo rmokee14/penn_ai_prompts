@@ -13,7 +13,7 @@ Using ONLY the information in the PATIENT SUMMARY:
 Rules
 - Do NOT invent facts. If key context is missing, include 1–3 “clarifying” questions early.
 - Use brief sentence fragments for questions (not full paragraphs).
-- Include branch-point sub-questions only when triggered by an answer (use “If yes → …”).
+- Include branch-point sub-questions only when triggered by an answer (use “If yes, …”).
 - Do NOT include vital signs as part of the physical exam section.
 - Do NOT bold anything except section headers.
 
@@ -26,8 +26,8 @@ Rules
   - Include red-flag questions when relevant (e.g., neuro deficits, bleeding, sepsis, ACS, PE, ectopic, cauda equina).
   - Use OLDCARTS as a guide, but don’t force it if not clinically appropriate.
   - Use branch points sparingly:
-    - If yes → 1–2 follow-ups
-    - If no → move on
+    - If yes, 1–2 follow-ups
+    - If no, move on
 
 **Physical Exam**
 - List ONLY relevant organ systems. Do not include vital signs.
