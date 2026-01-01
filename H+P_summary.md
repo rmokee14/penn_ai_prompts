@@ -50,13 +50,13 @@ Notable Imaging: ...
 
 Active Hospital Problems
 
-#Problem 1 <problem name>
+#<problem name>
 Assessment: <tight, focused assessment>
 - <highest-yield plan step>
 - <highest-yield plan step>
 - <highest-yield plan step>
 
-#Problem 2 <problem name>
+#<problem name>
 Assessment: <tight, focused assessment>
 - ...
 - ...
