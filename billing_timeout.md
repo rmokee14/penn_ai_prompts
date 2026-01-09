@@ -61,5 +61,5 @@ Label **HIGH** if ANY of the following are explicitly documented (non-exhaustive
 
 **Risk:** [HIGH / MODERATE] based on [brief rationale]
 
-### Missing or unclear elements needed for HIGH:
+**Missing or unclear elements needed for HIGH:**
   - [Specific documentation gaps you noticed that would change the billing level if addressed - specific to patient, not generalities]
