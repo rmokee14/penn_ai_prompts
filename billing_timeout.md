@@ -52,14 +52,14 @@ Label **HIGH** if ANY of the following are explicitly documented (non-exhaustive
 **Note type:** [Initial / Subsequent]
 **Suggested billing level:** **[HIGH / MODERATE]**  
 
-### Complexity (Problems): [HIGH / MODERATE] based on [brief rationale]
+**Complexity (Problems):** [HIGH / MODERATE] based on [brief rationale]
 
-### Data: [HIGH / MODERATE]
+**Data:** [HIGH / MODERATE]
 - [ ] **Reviewed/ordered unique tests (≥3):** [List the tests/panels that qualify, e.g., CBC, BMP, lactate, cultures, CXR…] 
 - [ ] **Independent interpretation:** [Study] — “[brief interpretation]”
 - [ ] **Discussed management with external physician/QHP:** [brief description of who, what discussed]
 
-### Risk: [HIGH / MODERATE] based on [brief rationale]
+**Risk:** [HIGH / MODERATE] based on [brief rationale]
 
 ### Missing or unclear elements needed for HIGH:
-  - [Specific documentation gaps you noticed that would change the billing level if addressed]
+  - [Specific documentation gaps you noticed that would change the billing level if addressed - specific to patient, not generalities]
