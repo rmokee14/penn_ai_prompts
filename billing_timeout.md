@@ -13,7 +13,7 @@ Label **HIGH** if EITHER of the following is present:
 Label **MODERATE** when problems are acute systemic illness without threat-to-life features, multiple stable chronic illnesses, or exacerbations that improved and no longer driving inpatient-level management.
 
 ## Data (HIGH if ≥2 of the 3 categories below are met)
-**Important:** A data element counts only if it is tied to the 24h window (e.g., “today,” “overnight,” “this AM,” a dated result, “since yesterday,” etc.). It can be inferred, but within reason.
+**Important:** **24-hour rule for Data:** Only count data that is explicitly resulted/reviewed/interpreted/ordered **in the 24 hours preceding the note timestamp** (e.g., “today,” “overnight,” “this AM,” a dated result, “since yesterday,” etc.). While it can be inferred, if timing is unclear or appears to be carried forward from prior days, do not count it.
 
 1) **Unique tests reviewed and/or ordered (≥3):**
 - Count when you can list at least **3 unique tests/panels** that were reviewed/ordered in the 24h window.
