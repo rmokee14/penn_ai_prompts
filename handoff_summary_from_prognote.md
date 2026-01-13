@@ -57,7 +57,5 @@ Chronic
 
 
 To safely discharge the patient, the following need to be addressed:
-- Achieve adequate and sustainable pain control on an oral regimen.
-- Ensure pruritus is controlled with a safe, outpatient-appropriate regimen.
-- Confirm stable hemoglobin and no new complications.
-- Patient education and agreement on discharge medications and follow-up plan.
+- Achieve adequate and sustainable pain control on an oral regimen and that patient has any needed refills.
+- Confirm stable hemoglobin and no new sickle-cell-related complications.
