@@ -30,7 +30,7 @@ Relevant Data:
 - CTPE study from admission without PE or other acute pulmonary disease
 
 
-Currently, Liz is being treated for:
+Currently, patient is being treated for:
 
 Sickle cell VOC Pain Crisis
 - Continue PCA dilaudid 0.2mg basal, 0.8mg demand, q20 minutes - plan to wean to q30 as able
@@ -55,7 +55,7 @@ Chronic
 - HTN - continue amlodipine 5mg daily
 
 
-To safely discharge Liz, the following need to be addressed:
+To safely discharge the patient, the following need to be addressed:
 - Achieve adequate and sustainable pain control on an oral regimen.
 - Ensure pruritus is controlled with a safe, outpatient-appropriate regimen.
 - Confirm stable hemoglobin and no new complications.
