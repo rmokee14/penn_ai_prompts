@@ -32,21 +32,21 @@ Relevant Data:
 
 Currently, Liz is being treated for:
 
-#Sickle cell VOC Pain Crisis
+Sickle cell VOC Pain Crisis
 - Continue PCA dilaudid 0.2mg basal, 0.8mg demand, q20 minutes - plan to wean to q30 as able
 - Continue home morphine ER 15mg q12 and IR 45mg q6 PRN
 - Continue toradol 30mg q6 standing
 
-#Opioid-induced pruritus
+Opioid-induced pruritus
 - Continue Naloxone infusion (with titration as needed)
 - Continue loratadine, famotidine, prn oral diphenhydramine and hydroxyzine (alternating)
 - Avoidance of IV diphenhydramine per protoocl
 
-#Acute on chronic anemia
+Acute on chronic anemia
 s/p 2 units PRBCs, with good response
 - continue daily CBC with goal hgb > 6
 
-#Hypoxia
+Hypoxia
 - trend with goal O2 > 92%
 
 
