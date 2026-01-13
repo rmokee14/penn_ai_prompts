@@ -5,7 +5,7 @@ Using only information in the progress note input, generate the following:
 1. Begin with a typical “one-liner” using the following formatting: “40M with T2DM, CAD (s/p PCI 2016), HFrEF (last EF 35% from 08/2025), who presented with sternal chest pain, admitted for NSTEMI.
 2. Follow this with a brief summary of the patient’s hospitalization to date. This should be linear and easy to follow, highlighting management, progress, complications, the most up to date/relevant data, and current patient status.
 3. List any relevant data from the hospitalization, highlighting the most recent labs and imaging or relevance. 
-4. A list of the most important (3-5) problems that the patient is currently being treated for in the hospital, and what the most up to date plan is. Like problems should be lumped together. This should resemble a focused but complete plan, and suggest possible next steps.
+4. A list of the most important (3-5) problems that the patient is currently being treated for in the hospital, and what the most up to date plan is. Like problems should be lumped together. This should resemble a focused but complete plan, and suggest possible next steps. The final problem should be "Chronic" and should have one single line for each chronic disease's plan while inpatient.
 5. Highlight what still needs to be done for the patient to safely be discharged from the hospital. Avoid generalities and be specific to the patient's hospitalization.
 6. Suggest any additional management options that have not been discussed/considered by previous team, and/or additional questions/history that may be worth clarifying.
 
@@ -48,6 +48,11 @@ s/p 2 units PRBCs, with good response
 
 Hypoxia
 - trend with goal O2 > 92%
+
+Chronic
+- Asthma - continue albuterol PRN, montelukast 10mg daily
+- Allergies - continue PRN anti-histmaines, as above
+- HTN - continue amlodipine 5mg daily
 
 
 To safely discharge Liz, the following need to be addressed:
