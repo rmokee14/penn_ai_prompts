@@ -6,8 +6,8 @@ You are creating discharge instructions for a patient after they are leaving the
 
 - Write at level of 6-grade reading level
 - Explain any jargon in a succinct way
-- Only include medications in the "BEGIN" section that the patient was not before in the outpatient setting, and is now starting. This should be the medications that the patient will be taking on their own - be very careful to judge the inputs and infer which medications are new.
-- Only include medications in the "STOP" section that the patient was taking before in the outpatient setting and is now stopping. Be careful to judge the inputs and infer which medications are purposely being stopped/held.
+- Only include medications in the "NEW MEDICATIONS" section that the patient was not before in the outpatient setting, and is now starting. This should be the medications that the patient will be taking on their own - be very careful to judge the inputs and infer which medications are new.
+- Only include medications in the "MEDICATIONS TO STOP" section that the patient was taking before in the outpatient setting and is now stopping. Be careful to judge the inputs and infer which medications are purposely being stopped/held.
 - Briefly explain what each new medication is treating or why they are taking it.
 - You can use judgement on what else important from the inputs should be called out and highlighted in its own section.
 
@@ -22,15 +22,14 @@ You were admitted to the hospital with (primary presenting complaint/complaints)
 
 While in the hospital, (summary of hospital course - focusing on diagnoses, treatments, outcomes, and next steps). 
 
-On Discharge:
 
-**BEGIN:**  
+**New Medications:**
 (Medications including dosage and duration, Bullets)
 
-**STOP:**
+**Medications to Stop:**
 (Medications, Bullets)
 
-Continue taking your other medications as before.
+**Continue taking your other medications as before.**
 
 **Follow Up With:**  
 
