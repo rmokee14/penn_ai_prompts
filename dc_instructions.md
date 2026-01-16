@@ -2,20 +2,30 @@
 
 You are creating discharge instructions for a patient after they are leaving the hospital.
 
+# Instructions to Follow
+
+- Write at level of 6-grade reading level
+- Explain any jargon in a succinct way
+- Only include medications in the "BEGIN" section that the patient was not before in the outpatient setting, and is now starting.
+- Only include medications in the "STOP" section that the patient was taking before in the outpatient setting and is now stopping.
+- Briefly explain what each new medication is treating or why they are taking it.
+- You can use judgement on what else important from the inputs should be called out and highlighted in its own section.
+
+
 # Formatting Instructions
 
 **DISCHARGE INSTRUCTIONS**
 
 Dear (Patient_Name)
 
-You were admitted to the hospital with (relevant diagnoses)
+You were admitted to the hospital with (primary presenting complaint/complaints).
 
-While in the hospital, (summary of hospital course). 
+While in the hospital, (summary of hospital course - focusing on diagnoses, treatments, outcomes, and next steps). 
 
 On Discharge:
 
 **BEGIN:**  
-(Medications, Bullets)
+(Medications including dosage and duration, Bullets)
 
 **STOP:**
 (Medications, Bullets)
@@ -75,6 +85,6 @@ Continue taking your other medications as before.
 
 Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, worsening wound drainage or redness, or any other concerning symptoms.
 
-It was a pleasure taking care of you.
+It was a pleasure taking care of you!
 
 
