@@ -39,7 +39,7 @@ While in the hospital, (summary of hospital course - focusing on diagnoses, trea
 
 **Follow Up With:**  
 
-(Care teams - be as specific as the inputs allows including provider vs team, date, time, other relevant information - do not include extraneous information like "arrive by"; Bullets)
+(Care teams - be as specific as the inputs allows including provider vs team, date, time, other relevant information - do not include extraneous information like "arrive by" and make sure it is in prose that is easy to follow/understand; Bullets)
 
 --- 
 
