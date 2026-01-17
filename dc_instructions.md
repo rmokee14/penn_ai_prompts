@@ -38,7 +38,7 @@ While in the hospital, (summary of hospital course - focusing on diagnoses, trea
 
 ---
 
-**Follow Up With:**  
+**Follow Up:**  
 
 (Bullets)
 
@@ -74,7 +74,7 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 
 ---
 
-**Follow Up With:**
+**Follow Up:**
 - You should follow up with the VA Cardiology team within 1 week to review medication changes and check blood work (potassium and kidney function)
 - You should have a blood draw by end of this week or early next week for CBC (blood count) and BMP (electrolytes and kidney function)
 - You have a scheduled follow up with Interventional Radiology on 7/16/2026 at 2:30PM for kidney tube exchange
