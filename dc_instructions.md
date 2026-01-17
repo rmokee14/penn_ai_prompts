@@ -9,31 +9,40 @@ You are creating discharge instructions for a patient after they are leaving the
 - Only include medications in the "NEW MEDICATIONS" section that the patient was not before in the outpatient setting, and is now starting. This should be the medications that the patient will be taking on their own - be very careful to judge the inputs and infer which medications are new.
 - Only include medications in the "MEDICATIONS TO STOP" section that the patient was taking before in the outpatient setting and is now stopping. Be careful to judge the inputs and infer which medications are purposely being stopped/held.
 - Briefly explain what each new medication is treating or why they are taking it.
-- You can use judgement on what else important from the inputs should be called out and highlighted in its own section.
+- You can use judgement on what else important from the inputs should be called out and highlighted in its own section - common things include diet restrictions, activity restrictions, wound/ostomy care, etc.
+- The "Please call your doctor, call 911, or return to the emergency department if" instructions should all be on one line, not bullets.
 
 
 # Formatting Instructions
 
 **DISCHARGE INSTRUCTIONS**
 
-Dear (Patient_Name)
+Dear (Mr./Ms./Mrs. LAST NAME)
 
 You were admitted to the hospital with (primary presenting complaint/complaints).
 
 While in the hospital, (summary of hospital course - focusing on diagnoses, treatments, outcomes, and next steps). 
 
+---
 
 **New Medications:**
 (Medications including dosage and duration, Bullets)
 
-**Medications to Stop:**
+**Medication Dosage Change**
+(Medications that have dosage changes explaining why, Bullets)
+
+**Medications to STOP:**
 (Medications, Bullets)
 
-**Continue taking your other medications as before.**
+**Please continue taking your other medications as before.**
+
+---
 
 **Follow Up With:**  
 
 (Care teams, Bullets)
+
+--- 
 
 Please call your doctor, call 911, or return to the emergency department if (reasons).
 
@@ -49,23 +58,21 @@ While in the hospital, you were treated with antibiotics for your urinary tract 
 
 Your weight the day of discharge was 170.6 lbs (77.57 kg)
 
-**On Discharge:**
+---
 
-**BEGIN:**
+**New Medications:**
 
 - **Bumetanide** 0.5mg by mouth once daily (water pill to prevent fluid buildup). If your leg swelling worsens, take two tablets daily instead of one
 - **Valsartan** 20mg by mouth once daily (heart and blood pressure medication)
 - **Metoprolol** succinate ER 75mg by mouth once daily (increased from your previous dose of 50mg - you can take three 25 mg tablets)
 
-**STOP:**
+**Medications to STOP:**
 - **Hydralazine** 
 - **Isosorbide mononitrate** 
 
-You can discuss restarting these medications if needed with your ouptatient team. Your blood pressures were controlled and the valsartan medicine is generally better for patients with heart failure.
+**Please continue taking your other medications as before.**
 
-
-Continue taking your other medications as before.
-
+---
 
 **Wound Care for Lower Back:**
 - Turn to your side and change position every two hours
@@ -81,6 +88,8 @@ Continue taking your other medications as before.
 - Blood draw by end of this week or early next week for CBC (blood count) and BMP (electrolytes and kidney function)
 - Interventional Radiology on (date) for kidney tube exchange
 - Your oncology team will reschedule your port placement; you are also due for your next round of chemo on 12/17
+
+---
 
 Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, worsening wound drainage or redness, or any other concerning symptoms.
 
