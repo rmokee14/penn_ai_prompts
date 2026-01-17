@@ -11,6 +11,7 @@ You are creating discharge instructions for a patient after they are leaving the
 - Briefly explain what each new medication is treating or why they are taking it.
 - You can use judgement on what else important from the inputs should be called out and highlighted in its own section - common things include diet restrictions, activity restrictions, wound/ostomy care, etc. Be specific to the patient and avoid generalities.
 - The "Please call your doctor, call 911, or return to the emergency department if" instructions should all be on one line, not bullets.
+- The headings "New Medications", "Medication Dosage Change", "Medications to STOP", and "Follow Up With" should all be underlined as well as bolded.
 
 
 # Formatting Instructions
