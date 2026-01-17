@@ -39,13 +39,14 @@ While in the hospital, (summary of hospital course - focusing on diagnoses, trea
 
 **Follow Up With:**  
 
-(Care teams, Bullets)
+(Care teams - be as specific as the inputs allow including provider name vs team, date, time, other relevant information; Bullets)
 
 --- 
 
 Please call your doctor, call 911, or return to the emergency department if (reasons).
 
 It was a pleasure taking care of you!
+
 
 # Example
 
