@@ -9,6 +9,7 @@ You are creating discharge instructions for a patient after they are leaving the
 - Only include medications in the "NEW MEDICATIONS" section that the patient was not before in the outpatient setting, and is now starting. This almost never includes things like lovenox or heparin for prophylaxis.
 - Only include medications in the "MEDICATIONS TO STOP" section that the patient was taking before in the outpatient setting and is now stopping. 
 - Briefly explain what each new medication is treating or why they are taking it.
+- The "Follow Up" section should use brief prose that is easy to follow and not include all of the detail. Ex: "You have a CT scan of the brain scheduled on 7/28/2026 at 3PM" or "You have a neurology appointment with Dr. Smith on 5/17/2026 at 1:30 PM". Do not include all of the extraneous information included in the input, just what the patient needs to know.
 - You can use judgement on what else important from the inputs should be called out and highlighted in its own section - common things include diet restrictions, activity restrictions, wound/ostomy care, etc. Be specific to the patient and avoid generalities.
 - The "Please call your doctor, call 911, or return to the emergency department if" instructions should all be on one line, not bullets.
 
@@ -39,7 +40,7 @@ While in the hospital, (summary of hospital course - focusing on diagnoses, trea
 
 **Follow Up With:**  
 
-(Care teams - be as specific as the inputs allows including provider vs team, date, time, other relevant information - do not include extraneous information like "arrive by" and make sure it is in prose that is easy to follow/understand; Bullets)
+(Bullets)
 
 --- 
 
@@ -74,10 +75,10 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 ---
 
 **Follow Up With:**
-- VA Cardiology within 1 week to review medication changes and check blood work (potassium and kidney function)
-- Blood draw by end of this week or early next week for CBC (blood count) and BMP (electrolytes and kidney function)
-- Interventional Radiology on (date) for kidney tube exchange
-- Your oncology team will reschedule your port placement; you are also due for your next round of chemo on 12/17
+- You should follow up with the VA Cardiology team within 1 week to review medication changes and check blood work (potassium and kidney function)
+- You should have a blood draw by end of this week or early next week for CBC (blood count) and BMP (electrolytes and kidney function)
+- You have a scheduled follow up with Interventional Radiology on 7/16/2026 at 2:30PM for kidney tube exchange
+- Your oncology team will reschedule your port placement; you are also due for your next round of chemotherapy on 12/17/2026
 
 ---
 
