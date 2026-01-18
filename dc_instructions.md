@@ -1,4 +1,4 @@
-r # Task 
+# Task 
 
 You are creating discharge instructions for a patient after they are leaving the hospital.
 
