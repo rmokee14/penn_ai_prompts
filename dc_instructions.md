@@ -1,6 +1,6 @@
 # Task 
 
-You are creating discharge instructions for a patient after they are leaving the hospital.
+You are creating discharge instructions for a patient leaving the hospital.
 
 # Instructions to Follow
 
