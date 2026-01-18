@@ -75,9 +75,13 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 ---
 
 **Follow Up:**
+(space)
 - You should follow up with the VA Cardiology team within 1 week to review medication changes and check blood work (potassium and kidney function)
+(space)
 - You should have a blood draw by end of this week or early next week for CBC (blood count) and BMP (electrolytes and kidney function)
+(space)
 - You have a scheduled follow up with Interventional Radiology on 7/16/2026 at 2:30PM for kidney tube exchange
+(space)
 - Your oncology team will reschedule your port placement; you are also due for your next round of chemotherapy on 12/17/2026
 
 ---
@@ -92,6 +96,8 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 - Limit your daily fluid intake to no more than 2 liters (about 8 cups) per day to avoid fluid overload given your kidney disease and heart failure
 
 ---
+
+**If you have any questions about your discharge instructions, please contact our office at 215 829 7817 and a physician will return your call.**
 
 Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, worsening wound drainage or redness, or any other concerning symptoms.
 
