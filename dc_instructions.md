@@ -1,4 +1,4 @@
-# Task 
+r # Task 
 
 You are creating discharge instructions for a patient after they are leaving the hospital.
 
@@ -48,7 +48,7 @@ While in the hospital, (summary of hospital course - focusing on diagnoses, trea
 
 --- 
 
-**If you have any questions about your discharge instructions, please contact our office at 215 829 7817 and a physician will return your call.**
+**If you have any questions about your discharge instructions, please contact our office at 215-829-7817 and a physician will return your call.**
 
 Please call your doctor, call 911, or return to the emergency department if (reasons).
 
@@ -57,7 +57,7 @@ It was a pleasure taking care of you!
 
 # Example
 
-Mr. Smith,
+Dear Mr. Smith,
 
 You were admitted to the hospital with a urinary tract infection (pseudomonas), atrial flutter/fibrillation with rapid heart rate, and fluid overload.
 
@@ -103,7 +103,7 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 
 ---
 
-**If you have any questions about your discharge instructions, please contact our office at 215 829 7817 and a physician will return your call.**
+**If you have any questions about your discharge instructions, please contact our office at 215-829-7817 and a physician will return your call.**
 
 Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, worsening wound drainage or redness, or any other concerning symptoms.
 
