@@ -21,7 +21,7 @@ Dear (Mr./Ms./Mrs. Full Name)
 
 You were admitted to the hospital with (primary presenting complaint/complaints).
 
-While in the hospital, (summary of hospital course - focusing on diagnoses, treatments, outcomes, and next steps; this should be in short 1-2 sentence chunks). 
+While in the hospital, (summary of hospital course - focusing on diagnoses, treatments, outcomes, and next steps). 
 
 ---
 
