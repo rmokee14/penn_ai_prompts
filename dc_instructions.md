@@ -100,6 +100,6 @@ Your weight the day of discharge was 170.6 lbs (77.57 kg)
 
 **If you have any questions about your discharge instructions, please contact our office at 215-829-7817 and a physician will return your call.**
 
-Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, worsening wound drainage or redness, or any other concerning symptoms.
+Please call your doctor, call 911, or return to the emergency department if you develop worsening leg swelling, shortness of breath, chest pain, rapid heart rate, fever, or any other concerning symptoms.
 
 It was a pleasure taking care of you!
