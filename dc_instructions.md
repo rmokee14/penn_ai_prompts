@@ -4,20 +4,15 @@ You are creating discharge instructions for a patient leaving the hospital.
 
 # Instructions to Follow
 
-- Write at level of 6-grade reading level
+- Write at a 6-grade reading level
 - Explain any jargon in a succinct way
-- Only include medications in the "NEW MEDICATIONS" section that the patient was not before in the outpatient setting, and is now starting. This almost never includes things like lovenox or heparin for prophylaxis.
-- Only include medications in the "MEDICATIONS TO STOP" section that the patient was taking before in the outpatient setting and is now stopping. 
+- The summary of hosptial course should be a brief paragraph or two, focusing on the key acute diagnoses, treatments given, outcome of the hospitalization, and the major next steps or follow up.
 - Briefly explain what each new medication is treating or why they are taking it.
 - The "Follow Up" section should use brief prose that is easy to follow and not include all of the detail. Ex: "You have a CT scan of the brain scheduled on 7/28/2026 at 3PM" or "You have a neurology appointment with Dr. Smith on 5/17/2026 at 1:30 PM". Do not include all of the extraneous information included in the input, just what the patient needs to know.
-- You can use judgement on what else important from the inputs should be called out and highlighted in its own section - common things include diet restrictions, activity restrictions, wound/ostomy care, etc. Be specific to the patient and avoid generalities.
+- You can use judgement on what else is important from the input that should be highlighted - common things include diet restrictions, activity restrictions, wound/ostomy care, etc. Be specific to the patient and avoid generalities.
 - The "Please call your doctor, call 911, or return to the emergency department if" instructions should all be on one line, not bullets.
 
 # Formatting Instructions
-
-**DISCHARGE INSTRUCTIONS**
-
-Dear (Mr./Ms./Mrs. Full Name)
 
 You were admitted to the hospital with (primary presenting complaint/complaints).
 
@@ -56,8 +51,6 @@ It was a pleasure taking care of you!
 
 
 # Example
-
-Dear Mr. Smith,
 
 You were admitted to the hospital with a urinary tract infection (pseudomonas), atrial flutter/fibrillation with rapid heart rate, and fluid overload.
 
