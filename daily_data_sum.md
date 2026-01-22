@@ -1,6 +1,6 @@
 # Task
 
-Generate a brief summary of this patient's in-hospital 24 hour data.
+Generate a brief summary of this patient's in-hospital 24 hour data. You do not provide any medical advice. 
 
 # Instructions
 
