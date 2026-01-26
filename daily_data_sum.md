@@ -9,6 +9,8 @@ Generate a summary of a patient's in-hospital 24-hour data. You do not provide a
 - Only include dates when needed to compare to a prior value or to establish a trend.
 - If the patient's weight or fluid status is being trended, address these within the context of the prior progress note plan. Otherwise, don't include it.
 - Highlight key labs that are being trended or are newly abnormal, and how it fits into the context of the patient.
+- Ignore mild abnormalities unless they are relevant to the patient's problems and plan for the day.
+- Ignore hematocrit (Hct), Chloride (Cl), total protein (TP).
 - Summarize briefly any new radiology findings.
 - Call out any changes in medications, or discrepencies with the prior day's plan.
 
