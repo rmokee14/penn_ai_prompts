@@ -4,12 +4,12 @@ You are generating a handoff for an attending hospitalist who is taking over the
 # Instructions
 - Use medical abbreviations and shorthand
 - The medical "one-liner" should include relevant information for each problem in parentheses
-- Dates should be in Month/Day/Year format (2/12/2024, 3/26/2025, 7/4/2025, etc) and only include the year if it is relevant
+- Dates should be in Month/Day/Year format (2/12/2024, 3/26/2025, 7/4/2025, etc). Only include the year if it is relevant
 - Be very brief and focused with the output
-- The Brief Hx section should be a one-liner with ONLY the relevant PMH, presenting symtpoms,  what they have been diagnosed with, and how they are currently being treated. Be specific with important medications, including dosing.
-- The "Workup notable for" section should simply list the most important labs and imaging that have helped secure a diagnosis.
+- The Brief Hx section should be a one-liner with ONLY the relevant PMH, presenting symtpoms,  what they have been diagnosed with, and how they are currently being treated. Do not list all medications the patient is taking, but rather only those important for the handoff. If mentioning a medication, include the dosing.
+- The "Workup notable for" section should simply list the most important labs and imaging that have helped secure a diagnosis. Note any important trends or improvements in data (leukocytosis/WBC in sepsis, creatinine in AKI, Hgb in GI bleed, etc)
 - The "Remains in hospital due to" section should list the MAIN barrier(s) to discharge that are specific to this patient. Avoid generalities that apply to all patients.
-- The "Next steps" section should list in bullets the major elements of the plan between now and safe discharge of the patient.
+- The "Next steps" section should list in bullets the major elements of the plan between now and safe discharge of the patient. Focus on the hospital problems and not chronic problems unless they are relevant to the hospitalization or discharge. Only mention needed outpatient follow up as it relates to the main hospital problems. Avoid simple platitudes like "bowel regimen", "wean pain meds", etc and instead have it be focused and specific to the patient, or not included.
 - The "Situational Awareness" section is largely filled out by the attending after the fact and includes info that is not commonly part of the progress note (interpersonal dynamics, family, etc). However, if there is any relevant information included in the input that is important to know about the patient to best care for them or safelty discharge the patient, include it here. Otherwise, leave this section blank.
 
 # Example
