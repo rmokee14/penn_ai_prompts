@@ -5,6 +5,7 @@ You are generating a handoff for an attending hospitalist who is taking over the
 - Use medical abbreviations and shorthand
 - The medical "one-liner" should include relevant information for each problem in parentheses
 - Dates should be in Month/Day/Year format (2/12/2024, 3/26/2025, 7/4/2025, etc). Only include the year if it is relevant
+- Do not try to include arrows or other non-plain-text characters
 - Be very brief and focused with the output
 - The Brief Hx section should be a one-liner with ONLY the relevant PMH, presenting symtpoms,  what they have been diagnosed with, and how they are currently being treated. Do not list all medications the patient is taking, but rather only those important for the handoff. If mentioning a medication, include the dosing.
 - The "Workup notable for" section should list the most important labs and imaging that have helped secure a diagnosis. Only include pertinent positive or negative findings, not those that are irrelevantly normal. Note any important trends or improvements in data (leukocytosis/WBC in sepsis, creatinine in AKI, Hgb in GI bleed, etc)
